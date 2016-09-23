@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  cocoaheads
+
+  Created by Gabriel Bremond on 21/09/2016.
+  Copyright © 2016 photograve. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Hello";
+"CFBundleName" = "Hello";
